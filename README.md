@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-Rock Paper Scissors game developed with Spring Boot,Thymeleaf.
+Rock Paper Scissors game developed with Spring Boot,Sptring MVC, Thymeleaf, no database.
 Description available on [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 
 ## How to run
